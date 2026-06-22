@@ -1,0 +1,11 @@
+.footer {
+  width: 100%;
+  border-top: 1px solid #e0e0e0;
+}
+
+.footerNav {
+  display: flex;
+  padding: 1rem;
+  justify-content: center;
+  gap: 1rem;
+}
