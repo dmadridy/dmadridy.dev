@@ -1,12 +1,10 @@
 import styles from "./profile.module.css";
-import profilePic from "../../public/profile-pic.jpg";
-
 export default function Profile() {
   return (
     <section className={styles.profileSection}>
       <div className={styles.profilePicContainer}>
         <img
-          src={profilePic}
+          src="/profile-pic.JPG"
           alt="David Madrid"
           className={styles.profilePic}
         />
