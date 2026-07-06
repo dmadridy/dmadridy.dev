@@ -18,3 +18,11 @@
   height: 100%;
   object-fit: cover;
 }
+
+p {
+  text-align: center;
+}
+
+section {
+  padding: 1rem;
+}
